@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=$1 python -u main_oip.py --mask_lr 0.001 --mask_dim 128

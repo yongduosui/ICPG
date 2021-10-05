@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=$1 python -u main_baseline.py --save_dir baseline_ckpt

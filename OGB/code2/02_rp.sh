@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=$1 python -u main_rp.py --save_dir rp_ckpt

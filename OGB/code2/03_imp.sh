@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=$1 python -u main_imp_real.py --save_dir imp_ckpt
