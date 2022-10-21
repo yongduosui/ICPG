@@ -1,4 +1,4 @@
-# Inductive Lottery Ticket Learning
+# Inductive Lottery Ticket Learning for GNNs
 ## Environment
 ```shell
 python==3.6
