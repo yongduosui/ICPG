@@ -1,4 +1,13 @@
-# Inductive Lottery Ticket Learning for GNNs
+# Inductive Lottery Ticket Learning for Graph Neural Networks
+
+We provide a detailed code for "Inductive Lottery Ticket Learning for Graph Neural Networks".
+
+Yongduo Sui, Xiang Wang, Tianlong Chen, Meng Wang, Xiangnan He, Tat-Seng Chua.
+
+In JCST 2023 (Journal of Computer Science and Technology): https://jcst.ict.ac.cn/en/article/doi/10.1007/s11390-023-2583-5 
+
+
+
 ## Environment
 ```shell
 python==3.6
